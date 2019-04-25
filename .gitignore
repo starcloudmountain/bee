@@ -11,3 +11,5 @@ target/
 data/*
 
 .DS_Store
+/.project
+/.gitignore
